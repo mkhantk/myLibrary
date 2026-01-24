@@ -129,6 +129,7 @@ function App() {
 						<TableHead>Author</TableHead>
 						<TableHead>Pages</TableHead>
 						<TableHead>Status</TableHead>
+						<TableHead>Action</TableHead>
 					</TableRow>
 				</TableHeader>
 				<TableBody>
